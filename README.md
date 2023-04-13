@@ -37,10 +37,10 @@ pip install requests
    - `GITHUB_REPO`: The name of the repository where you want to update your profile README file.
    - `README_FILE_PATH`: The path to your profile README file, relative to the root of your repository.
 
-3. Save the `spotify_now_playing.py` file.
+3. Save the `Spotify.py` file.
 
 ```
-python spotify_now_playing.py
+python Spotify.py
 ```
 
 
